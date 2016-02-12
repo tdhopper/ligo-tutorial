@@ -1,0 +1,7 @@
+name: ligo-tutorial
+dependencies:
+- pip
+- python=2
+- anaconda
+- h5py
+- notebook
